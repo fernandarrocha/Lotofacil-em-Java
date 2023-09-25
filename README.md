@@ -9,21 +9,20 @@ Este é um projeto de faculdade, feito em Java, pelo intelliJ, o primeiro progra
 Execute o programa, que irá abrir um menu com as opções:
 1. Fazer uma aposta;
 2. Verificar resultados;
-0. Sair.
 
-Após abrir o menu, digite a opção desejada para realizar a aposta.
+Após abrir o menu, clique no botão "Fazer uma aposta" para realizar a aposta. Nessa nova janela, digite 6 números diferentes entre 1 e 60, digite um número em cada campo de texto e após digitar os 6 números, clique no botão "Fazer Aposta" na parte inferior da janela de aposta. Loogo em seguida clique em "Verificar resultados".
 
 <hr>
 
 ## Como utilizar o programa Projeto-lotofacil-letras
 
-Execute o programa, digite uma letra de A a Z para sua aposta, e dê enter.
+Execute o programa, digite uma letra de A a Z para sua aposta e clique no botão "Verificar", após isso o usuário irá receber a mensagem se acertou ou errou a letra.
 
 <hr>
 
 ## Como utilizar o programa Projeto-par-ou-impar
 
-Execute o programa, digite um número inteiro e dê enter, o programa vai verificar se o número é par ou ímpar.
+Execute o programa, irá aparecer uma janela solicitando que digite um número inteiro, após digitar clique em "Verificar" e o programa irá responder se acertou a aposta.
 
 
 
